@@ -1,0 +1,11 @@
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/bin/Debug/net8.0/ClearMeasureHomeWorkLibrary.deps.json
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/bin/Debug/net8.0/ClearMeasureHomeWorkLibrary.dll
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/bin/Debug/net8.0/ClearMeasureHomeWorkLibrary.pdb
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.AssemblyInfoInputs.cache
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.AssemblyInfo.cs
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.csproj.CoreCompileInputs.cache
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.dll
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/refint/ClearMeasureHomeWorkLibrary.dll
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ClearMeasureHomeWorkLibrary.pdb
+/Users/joelhjames21/Desktop/ClearMeasureHomeWork/ClearMeasureHomeWorkLibrary/obj/Debug/net8.0/ref/ClearMeasureHomeWorkLibrary.dll

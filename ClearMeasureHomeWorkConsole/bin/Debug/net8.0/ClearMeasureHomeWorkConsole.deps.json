@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClearMeasureHomeWorkConsole/1.0.0": {
+        "dependencies": {
+          "ClearMeasureHomeWorkLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClearMeasureHomeWorkConsole.dll": {}
+        }
+      },
+      "ClearMeasureHomeWorkLibrary/1.0.0": {
+        "runtime": {
+          "ClearMeasureHomeWorkLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClearMeasureHomeWorkConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClearMeasureHomeWorkLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

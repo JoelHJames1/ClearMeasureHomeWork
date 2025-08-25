@@ -6,17 +6,17 @@ namespace ClearMeasureHomeWorkUnitTest;
 public class DivisibleHelperLibraryTests
 {
     [Theory]
-    [InlineData(3, "Joel")]
-    [InlineData(5, "Hernandez")]
-    [InlineData(6, "Joel")]
-    [InlineData(10, "Hernandez")]
-    [InlineData(15, "Hernandez")] 
-    [InlineData(30, "Hernandez")]
-    [InlineData(7, "7")]
-    [InlineData(1, "1")]
-    public void Evaluate_Individual_Values_Work(int n, string expected)
+    [InlineData(4, "1\n2\nJoel\n")]
+    [InlineData(6, "1\n2\nJoel\n4\nHernandez\n")]
+    [InlineData(16, "1\n2\nJoel\n4\nHernandez\nJoel\n7\n8\nJoel\nHernandez\n11\nJoel\n13\n14\nHernandez\n")]
+    public void Print_GeneratesCorrectOutput(int upperBound, string expected)
     {
-        var result = n % 5 == 0 ? "Hernandez" : n % 3 == 0 ? "Joel" : n.ToString();
+        using var sw = new StringWriter();
+        Console.SetOut(sw);
+        
+        DivisibleHelperLibrary.Print(upperBound);
+        
+        var result = sw.ToString();
         Assert.Equal(expected, result);
     }
 }
